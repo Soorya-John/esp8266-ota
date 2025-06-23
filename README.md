@@ -13,3 +13,8 @@ D7 AND D0 IS FOR EXPANSION
 
 USING BC547 FOR DRIVING THE 3V VIBRATION MOTOR 
 
+
+The main lvr has a bypass switch that let's u code without taking the Esp out 
+
+
+A0 is touch sensor 
