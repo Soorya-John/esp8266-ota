@@ -1,1 +1,11 @@
 ignore the backup.bin file thats for the OTA update 
+
+D3 IS A 
+D4 IS B
+
+D1 AND D2 ARE SCL AND SDA 
+
+D7 AND D0 IS FOR EXPANSION 
+
+USING BC547 FOR DRIVING THE 3V VIBRATION MOTOR 
+
