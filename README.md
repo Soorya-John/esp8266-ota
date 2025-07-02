@@ -20,3 +20,4 @@ The main lvr has a bypass switch that let's u code without taking the Esp out
 A0 is touch sensor 
 
 messgaes are saved to eeeprom 
+![image](https://github.com/user-attachments/assets/35e39291-74fd-4ef1-9397-5718278b539b)
