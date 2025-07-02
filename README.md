@@ -25,20 +25,6 @@ A compact, wireless pager built using the ESP8266, designed to receive messages 
 - 📡 **OTA Firmware Updates**  
   Easily push updates via HTTP using Arduino OTA mechanisms.
 
-## 📁 Project Structure
-
-esp8266-pager/
-├── src/
-│ ├── main.ino # Core logic
-│ ├── display.h / .cpp # OLED handling
-│ ├── memory_vault.h # Message memory management
-│ └── vibration.h # Vibration control
-├── data/
-│ └── icons/ # Bitmap icons for display
-├── lib/ # External libraries (if any)
-└── README.md
-
-
 ## 📲 Setup Instructions
 
 1. **Install Prerequisites**
