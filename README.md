@@ -61,6 +61,12 @@ A compact, wireless pager built using the ESP8266, designed to receive messages 
 - Vibration Motor (transistor-driven)
 - 2x Pushbuttons
 - Optional: Rechargeable LiPo with TP4056 module
+![1751487154165](https://github.com/user-attachments/assets/4933915f-1be5-4696-9acf-dd23a4be542a)
+![1751487095837](https://github.com/user-attachments/assets/b15d3a05-03ad-4f7b-9270-3ed8d0fe0d1d)
+![1751351003081](https://github.com/user-attachments/assets/2db445d0-aea3-4fe2-af0a-eca641c892c4)
+![1750788052481](https://github.com/user-attachments/assets/42eb651a-bd06-48e6-bfcb-5aa36ae3f7a9)
+
+
 
 ## 🔄 OTA Update Instructions
 
@@ -68,11 +74,4 @@ Upload a `.bin` firmware file to a public server or GitHub and specify its URL i
 
 ```cpp
 ESPhttpUpdate.update("https://yourdomain.com/update.bin");
-
-
-![1751487095837](https://github.com/user-attachments/assets/65f978cd-eae3-4062-9445-a1ef00639460)
-![1751351003081](https://github.com/user-attachments/assets/ebdc0773-ecce-431f-b519-e2d8bf31a548)
-![1750788052481](https://github.com/user-attachments/assets/2d96546f-e2b6-4e33-ae4f-1b4cbd1b7d3d)
-![1751487154165](https://github.com/user-attachments/assets/0cafe677-0134-4406-a556-1e7eccc3663f)
-
 
